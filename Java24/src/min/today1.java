@@ -1,7 +1,7 @@
 package min;
 
-public class today {
+public class today1 {
 public static void main(String[] args) {
-	System.out.println("today");
+	System.out.println("today...");
 }
 }
