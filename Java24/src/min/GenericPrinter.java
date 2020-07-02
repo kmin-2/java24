@@ -1,5 +1,5 @@
 package min;
-
+//
 public class GenericPrinter<T extends Material> {
 	private T material;
 	

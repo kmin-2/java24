@@ -1,5 +1,5 @@
 package min;
-
+//
 public class Point<T, V> {
 	T x;  //int x; 이런것처럼 똑같은거
 	V y;

@@ -1,5 +1,5 @@
 package min;
-
+//
 public class GenericPrintTest {
 	public static void main(String[] args) {
 		//T타입의 객체는 모든 클래스에서 상속이 가능하여 자동으로 클래스로 형변환이 가능합

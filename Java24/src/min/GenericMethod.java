@@ -1,5 +1,5 @@
 package min;
-
+//ddsd
 public class GenericMethod {
 	public static <T,V> double makeRec(Point<T,V> p1, Point<T,V> p2) {
 		double left=((Number)p1.getX()).doubleValue();//왼쪽 t에서 값을 받음

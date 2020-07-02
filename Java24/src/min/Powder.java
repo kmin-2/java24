@@ -1,5 +1,5 @@
 package min;
-
+//
 public class Powder  extends Material{
 	public void doPrinting() {
 		System.out.println("powder 재료로 출력합니다.");}

@@ -1,5 +1,5 @@
 package min;
-
+//
 public class ThreePrintPowder {
 	private Powder material;
 	

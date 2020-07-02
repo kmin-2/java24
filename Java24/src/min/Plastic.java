@@ -1,5 +1,5 @@
 package min;
-
+//
 public class Plastic extends Material{
 	public void doPrinting() {
 		System.out.println("Plastic 재료로 출력합니다.");

@@ -1,5 +1,5 @@
 package min;
-
+//
 public class ThreePrintPlastic {
 		private Plastic material;
 		
